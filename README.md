@@ -3,3 +3,7 @@ An implementation of kruskals algoirithm to find varying MST's based on a graph 
 
 # Example of all Vertices Mapped out
 ![alt text](All_Connections.png)
+
+
+# Example of Kruskal's MST
+![alt text](MST.png)
